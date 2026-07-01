@@ -23,7 +23,6 @@ I'm passionate about using **Data Science, Machine Learning, and Artificial Inte
 ## 🛠️ Technical Skills
 
 
-## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,azure" />
@@ -36,29 +35,9 @@ I'm passionate about using **Data Science, Machine Learning, and Artificial Inte
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
-### Programming
 
-- Python
-- SQL (Learning)
 
-### Data Science & Machine Learning
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Machine Learning
-- Predictive Modeling
-
-### Tools
-
-- Git
-- GitHub
-- Google Colab
-- Azure Machine Learning
-- VS Code
 
 
 
@@ -139,6 +118,9 @@ Machine learning project focused on renewable energy forecasting.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelEjima&layout=compact)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelEjima&theme=tokyonight)
 
 
 
