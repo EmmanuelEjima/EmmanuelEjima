@@ -6,7 +6,7 @@ Welcome to my GitHub!
 
 I'm passionate about solving real-world problems using **Data Science**, **Machine Learning**, and **Renewable Energy Technologies**.
 
----
+
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ I'm passionate about solving real-world problems using **Data Science**, **Machi
 - 🤖 Learning AI & Azure Machine Learning
 - 🌍 Interested in Energy Analytics and Process Engineering
 
----
+
 
 ## 🛠️ Skills
 
@@ -40,7 +40,7 @@ I'm passionate about solving real-world problems using **Data Science**, **Machi
 - Google Colab
 - Azure Machine Learning
 
----
+
 
 ## 📂 Featured Projects
 
@@ -50,7 +50,7 @@ Exploratory Data Analysis of the Titanic dataset.
 
 🔗 https://github.com/EmmanuelEjima/Data-Science-Machine-Learning-Portfolio/tree/main/projects/Titanic-Survival-EDA
 
----
+
 
 ### 🛒 Supermarket Sales Prediction
 
@@ -58,7 +58,7 @@ Machine Learning Regression Project.
 
 🔗 https://github.com/EmmanuelEjima/Data-Science-Machine-Learning-Portfolio/tree/main/projects/Supermarket-Sales-Prediction
 
----
+
 
 ### ☀️ Solar Power Prediction
 
@@ -66,14 +66,14 @@ Renewable Energy Machine Learning Project.
 
 🔗 https://github.com/EmmanuelEjima/Data-Science-Machine-Learning-Portfolio/tree/main/projects/Solar-Power-Prediction
 
----
+
 
 ## 📜 Certifications
 
 - Green Digital Skills – INCO Academy
-- Data Science & Machine Learning (Ongoing)
+- Data Science & Machine Learning 
 
----
+
 
 ## 🎯 Current Focus
 
@@ -82,13 +82,13 @@ Renewable Energy Machine Learning Project.
 - Data Analytics
 - Renewable Energy Analytics
 
----
+
 
 ## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/emmanuel-ejima
 - Email: emmanuelejima12@gmail.com
 
----
+
 
 ⭐ Thanks for visiting my profile!
